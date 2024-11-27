@@ -1,0 +1,36 @@
+services:
+  uar.api:
+    image: ${DOCKER_REGISTRY-}uarapi
+    build:
+      context: .
+      dockerfile: Uar.Api/Dockerfile
+    ports:
+        - "5000:5000"
+        - "5001:5001"
+  postgresdb:
+    image: postgres:17.2
+    container_name: postgresdb
+    restart: always
+    ports:
+        - "5432:5432"
+    environment:
+        POSTGRES_DB: uar-db-2
+        POSTGRES_USER: postgresUser
+        POSTGRES_PASSWORD: admin1234
+    volumes:
+        - local_pgdata:/var/lib/postgresql/data
+    
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: pgadmin4_container
+    restart: always
+    ports:
+        - "8081:80"
+    environment:
+        PGADMIN_DEFAULT_EMAIL: erudayu@gmail.com
+        PGADMIN_DEFAULT_PASSWORD: Test123%
+    volumes:
+        - pgadmin_data:/var/lib/pgadmin
+volumes:
+  local_pgdata:
+  pgadmin_data:

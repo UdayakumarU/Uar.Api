@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Full stack web\\UAR\\Uar.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C628A668-5E21-4E29-BB1F-0B46F0A96EA6}|docker-compose.dcproj|d:\\projects\\full stack web\\uar\\uar.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C628A668-5E21-4E29-BB1F-0B46F0A96EA6}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Full stack web\\UAR\\Uar.Api\\Uar.Ui\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Uar.Ui\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C628A668-5E21-4E29-BB1F-0B46F0A96EA6}|docker-compose.dcproj|d:\\projects\\full stack web\\uar\\uar.api\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C628A668-5E21-4E29-BB1F-0B46F0A96EA6}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160CBB3B-3E6A-4EB3-94D8-A6738AAC9AAE}|Uar.Api\\Uar.Api.csproj|d:\\projects\\full stack web\\uar\\uar.api\\uar.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{160CBB3B-3E6A-4EB3-94D8-A6738AAC9AAE}|Uar.Api\\Uar.Api.csproj|solutionrelative:uar.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "D:\\Projects\\Full stack web\\UAR\\Uar.Api\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "D:\\Projects\\Full stack web\\UAR\\Uar.Api\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-11-27T15:33:56.872Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Projects\\Full stack web\\UAR\\Uar.Api\\Uar.Ui\\Dockerfile",
+              "RelativeDocumentMoniker": "Uar.Ui\\Dockerfile",
+              "ToolTip": "D:\\Projects\\Full stack web\\UAR\\Uar.Api\\Uar.Ui\\Dockerfile",
+              "RelativeToolTip": "Uar.Ui\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T17:32:44.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Projects\\Full stack web\\UAR\\Uar.Api\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\Projects\\Full stack web\\UAR\\Uar.Api\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-11-27T15:21:27.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Projects\\Full stack web\\UAR\\Uar.Api\\Uar.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "Uar.Api\\Dockerfile",
+              "ToolTip": "D:\\Projects\\Full stack web\\UAR\\Uar.Api\\Uar.Api\\Dockerfile",
+              "RelativeToolTip": "Uar.Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T15:19:42.096Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
