@@ -27,7 +27,7 @@ services:
     ports:
       - "8081:80"
     environment:
-      PGADMIN_DEFAULT_EMAIL: erudayu@gmail.com
+      PGADMIN_DEFAULT_EMAIL: admin@gmail.com
       PGADMIN_DEFAULT_PASSWORD: Test123%
     volumes:
       - pgadmin_data:/var/lib/pgadmin
